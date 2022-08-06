@@ -8,16 +8,16 @@ This is a frontend of e-commerce app using React, Chakra-Ui, React Icons.
 
 ## Output Link
 
-- To Be Updated
+- https://daalchini-frontend-assignment.netlify.app
 
 ## Installation and Run
 
-Install daalchini_round_task with npm
+Install daalchini_assignment with npm
 
 ```bash
-  git clone https://github.com/aditya12gusain/daalchini_round_task.git
+  git clone https://github.com/yash564/daalchini_assignment.git
 
-  cd daalchini_round_task
+  cd daalchini_assignment
 
   npm install
 
