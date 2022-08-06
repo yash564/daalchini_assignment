@@ -1,4 +1,4 @@
-# Daalchini Hiring Challenge Task
+# Daalchini Assignment
 
 This is a frontend of e-commerce app using React, Chakra-Ui, React Icons.
 
@@ -48,12 +48,6 @@ Install daalchini_assignment with npm
   - Redirect to product page if user is not logged in
 - Order Confirmed
   - Redirect Link to go to product Page
-
-## Optimizations
-
-User details and cart details are stored in Local Storage of the device automatically so that even on reload of the page the state of the app presists.
-
-Every UI element is made to be responsive, and works perfectly on all devices.
 
 ## Tech Stack
 
